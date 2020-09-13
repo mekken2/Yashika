@@ -1,7 +1,7 @@
-# JARVIS
- This is a try to copy the Jarvis of Iron Man (Assisstant of Tony Stark)
+# YASHIKA_AI
+ This is a try to copy someone with the way I used to chat.
 
-## Steps to Run JARVIS
+## Steps to Run YASHIKA_AI
 1. Clone the repository
 2. Run jarvis.py using cmd/terminal
 
