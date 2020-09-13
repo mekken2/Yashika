@@ -1,9 +1,9 @@
 # YASHIKA_AI
- This is a try to copy someone with the way I used to chat.
+ Bored?? Let's talk to your pc and see what secrets it want to tell ya! Powered by Love.
 
 ## Steps to Run YASHIKA_AI
 1. Clone the repository
-2. Run jarvis.py using cmd/terminal
+2. Run yashika.py using cmd/terminal
 
 ## Things it can do now
 1. Open Websites
