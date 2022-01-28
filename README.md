@@ -1,7 +1,7 @@
-# YASHIKA_AI
+# YASHIKA
  Bored?? Let's talk to your pc and see what secrets it want to tell ya! Powered by Love.
 
-## Steps to Run YASHIKA_AI
+## Steps to Run YASHIKA
 1. Clone the repository
 2. Run yashika.py using cmd/terminal
 
